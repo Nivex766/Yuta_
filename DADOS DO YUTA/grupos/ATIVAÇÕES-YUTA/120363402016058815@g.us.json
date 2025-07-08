@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Teste",
+    "groupId": "120363402016058815@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": false,
+    "antiloc": false,
+    "antilinkgp": false,
+    "antilinkhard": false,
+    "antilinkeasy": false,
+    "antifake": false,
+    "antiporn": false,
+    "Odelete": false,
+    "antinotas": false,
+    "anticatalogo": false,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [],
+    "advertir": [],
+    "prefixos": [
+      "!"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "ausentes": [],
+    "ANTI_DDD": {
+      "active": false,
+      "listaProibidos": []
+    },
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": false,
+        "legendabv": "✨ 𝙾𝙻𝙰 #numerodele# 𝚂𝙴𝙹𝙰 𝙱𝙴𝙼 𝚅𝙸𝙽𝙳𝙾[ 𝙰 ] 𝙰𝙾 𝙶𝚁𝚄𝙿𝙾   #nomedogp#\n\n• 𝙻𝙴𝙸𝙰 𝙰𝚂 𝚁𝙴𝙶𝚁𝙰𝚂 𝙴 𝙰𝙿𝚁𝙾𝚅𝙴𝙸𝚃𝙴 𝙾 𝙶𝚁𝚄𝙿𝙾\n> Bosta Bot",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "✨ 𝙾𝙻𝙰 #numerodele# 𝚂𝙴𝙹𝙰 𝙱𝙴𝙼 𝚅𝙸𝙽𝙳𝙾[ 𝙰 ] 𝙰𝙾 𝙶𝚁𝚄𝙿𝙾   #nomedogp#\n\n• 𝙻𝙴𝙸𝙰 𝙰𝚂 𝚁𝙴𝙶𝚁𝙰𝚂 𝙴 𝙰𝙿𝚁𝙾𝚅𝙴𝙸𝚃𝙴 𝙾 𝙶𝚁𝚄𝙿𝙾\n> Bosta Bot",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": false,
+    "bangp": false,
+    "modo_rpg": false
+  }
+]
